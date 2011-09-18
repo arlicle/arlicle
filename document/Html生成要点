@@ -1,0 +1,16 @@
+1. 可以定制url是否生成还是虚拟静态
+2. 一键整站html生成
+3. 实现伪静态化
+
+4. php类型的缓存, 未替换url
+
+
+
+html::anchor的时候要判断,html地址
+admin编辑跳转的时候要判断, html地址
+
+html方式: 1. 无, 2.伪静态化, 3.纯静态html 
+
+1. Diagram可以设置html生成方式
+2. 如果Item和page或list网址一样,以Item和Page网址为准
+3. 可以额外设置
